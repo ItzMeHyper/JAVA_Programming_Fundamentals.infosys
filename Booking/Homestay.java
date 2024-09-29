@@ -75,7 +75,7 @@ class RoomDetails implements RoomBillComponent {
     }
 }
 
-public class NATURE_VALLEY_Homestay {
+public class Homestay {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
